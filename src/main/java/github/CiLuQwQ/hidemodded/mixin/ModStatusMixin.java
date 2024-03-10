@@ -1,4 +1,4 @@
-package gtihub.CiLuQwQ.hidemodded.mixin;
+package github.CiLuQwQ.hidemodded.mixin;
 
 import net.minecraft.util.ModStatus;
 import org.spongepowered.asm.mixin.Mixin;
