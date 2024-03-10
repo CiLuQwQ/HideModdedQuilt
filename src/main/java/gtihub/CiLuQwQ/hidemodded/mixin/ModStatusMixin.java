@@ -7,8 +7,7 @@ import org.spongepowered.asm.mixin.Overwrite;
 public class ModStatusMixin {
 	/**
 	 * @author CiLuQwQ
-	 * @reason
-	 */
+     */
 	@Overwrite
 	public boolean isModded() {
 		return false;
